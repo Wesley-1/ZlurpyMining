@@ -1,0 +1,7 @@
+name: ZlurpyMining
+version: ${project.version}
+main: zlurpymining.zlurpymining.ZlurpyMining
+api-version: 1.16
+commands:
+  ores:
+  titem:

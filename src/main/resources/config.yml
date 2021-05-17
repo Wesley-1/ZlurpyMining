@@ -1,0 +1,6 @@
+messages:
+  ore-placed: "&aYou've placed a &b%oreType%"
+  ore-null: "&cOre is null, contact an admin"
+settings:
+  actionbar: true
+
