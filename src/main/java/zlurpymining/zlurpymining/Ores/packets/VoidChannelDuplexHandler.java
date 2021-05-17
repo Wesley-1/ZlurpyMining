@@ -1,4 +1,4 @@
-package zlurpymining.zlurpymining.Ores.packets;
+package zlurpymining.zlurpymining.Ores.Packets;
 
 import io.netty.channel.*;
 import net.minecraft.server.v1_16_R3.*;
@@ -7,9 +7,8 @@ import org.bukkit.block.Block;
 import org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 import zlurpymining.zlurpymining.OresHandler;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.tasks.ProgressTask;
-import zlurpymining.zlurpymining.ZlurpyMining;
+import zlurpymining.zlurpymining.Ores.Objects.Ore;
+import zlurpymining.zlurpymining.Ores.Tasks.ProgressTask;
 
 import java.lang.reflect.Field;
 import java.util.Map;

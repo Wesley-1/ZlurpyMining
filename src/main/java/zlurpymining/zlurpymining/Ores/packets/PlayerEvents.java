@@ -1,4 +1,4 @@
-package zlurpymining.zlurpymining.Ores.packets;
+package zlurpymining.zlurpymining.Ores.Packets;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

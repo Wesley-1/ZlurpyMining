@@ -1,7 +1,5 @@
-package zlurpymining.zlurpymining.Ores.tasks;
+package zlurpymining.zlurpymining.Ores.Tasks;
 
-import com.gmail.filoghost.holographicdisplays.api.Hologram;
-import com.gmail.filoghost.holographicdisplays.api.line.TextLine;
 import net.minecraft.server.v1_16_R3.BlockPosition;
 import net.minecraft.server.v1_16_R3.EntityPlayer;
 import net.minecraft.server.v1_16_R3.IBlockData;
@@ -13,15 +11,13 @@ import org.bukkit.Particle;
 import org.bukkit.block.Block;
 import org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
-import org.bukkit.potion.PotionEffect;
-import org.bukkit.potion.PotionEffectType;
 import org.bukkit.scheduler.BukkitRunnable;
 import zlurpymining.zlurpymining.Ores.CustomEvents.MiningEvent;
 import zlurpymining.zlurpymining.Ores.Util;
 import zlurpymining.zlurpymining.OresHandler;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.packets.PacketHandler;
-import zlurpymining.zlurpymining.Ores.packets.VoidChannelDuplexHandler;
+import zlurpymining.zlurpymining.Ores.Objects.Ore;
+import zlurpymining.zlurpymining.Ores.Packets.PacketHandler;
+import zlurpymining.zlurpymining.Ores.Packets.VoidChannelDuplexHandler;
 import zlurpymining.zlurpymining.ZlurpyMining;
 
 import java.lang.reflect.Field;

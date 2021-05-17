@@ -1,20 +1,18 @@
 package zlurpymining.zlurpymining;
-import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
-import org.bukkit.event.block.BlockDamageEvent;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import zlurpymining.zlurpymining.Ores.Commands.OresCommands;
 import zlurpymining.zlurpymining.Ores.Commands.OresTab;
 import zlurpymining.zlurpymining.Ores.Listeners.*;
 import zlurpymining.zlurpymining.Ores.Util;
-import zlurpymining.zlurpymining.Ores.objects.*;
-import zlurpymining.zlurpymining.Ores.packets.Packets;
-import zlurpymining.zlurpymining.Ores.packets.PlayerEvents;
-import zlurpymining.zlurpymining.Ores.packets.PlayerPacketHandler;
-import zlurpymining.zlurpymining.Ores.tasks.ProgressTask;
-import zlurpymining.zlurpymining.Ores.tasks.RegenTask;
+import zlurpymining.zlurpymining.Ores.Objects.*;
+import zlurpymining.zlurpymining.Ores.Packets.Packets;
+import zlurpymining.zlurpymining.Ores.Packets.PlayerEvents;
+import zlurpymining.zlurpymining.Ores.Packets.PlayerPacketHandler;
+import zlurpymining.zlurpymining.Ores.Tasks.ProgressTask;
+import zlurpymining.zlurpymining.Ores.Tasks.RegenTask;
 
 
 import java.io.IOException;

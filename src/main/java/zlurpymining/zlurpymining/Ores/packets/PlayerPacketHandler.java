@@ -1,4 +1,4 @@
-package zlurpymining.zlurpymining.Ores.packets;
+package zlurpymining.zlurpymining.Ores.Packets;
 
 import io.netty.channel.DefaultChannelPromise;
 import org.bukkit.entity.Player;

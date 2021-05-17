@@ -1,14 +1,9 @@
-package zlurpymining.zlurpymining.Ores.packets;
+package zlurpymining.zlurpymining.Ores.Packets;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.objects.Regen;
+import zlurpymining.zlurpymining.Ores.Objects.Regen;
 import zlurpymining.zlurpymining.ZlurpyMining;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 public class Packets {
 

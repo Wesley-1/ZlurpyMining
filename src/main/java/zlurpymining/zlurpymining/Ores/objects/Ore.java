@@ -1,4 +1,4 @@
-package zlurpymining.zlurpymining.Ores.objects;
+package zlurpymining.zlurpymining.Ores.Objects;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;

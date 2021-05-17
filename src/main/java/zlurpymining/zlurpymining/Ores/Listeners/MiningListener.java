@@ -9,8 +9,8 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import zlurpymining.zlurpymining.Ores.CustomEvents.MiningEvent;
 import zlurpymining.zlurpymining.OresHandler;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.objects.Regen;
+import zlurpymining.zlurpymining.Ores.Objects.Ore;
+import zlurpymining.zlurpymining.Ores.Objects.Regen;
 import zlurpymining.zlurpymining.ZlurpyMining;
 
 import java.util.ArrayList;

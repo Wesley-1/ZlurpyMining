@@ -1,11 +1,11 @@
-package zlurpymining.zlurpymining.Ores.packets;
+package zlurpymining.zlurpymining.Ores.Packets;
 
 import net.minecraft.server.v1_16_R3.BlockPosition;
 import net.minecraft.server.v1_16_R3.PacketPlayOutBlockBreakAnimation;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
-import zlurpymining.zlurpymining.Ores.objects.Regen;
-import zlurpymining.zlurpymining.Ores.tasks.ProgressTask;
+import zlurpymining.zlurpymining.Ores.Objects.Regen;
+import zlurpymining.zlurpymining.Ores.Tasks.ProgressTask;
 import zlurpymining.zlurpymining.ZlurpyMining;
 
 import java.util.HashMap;

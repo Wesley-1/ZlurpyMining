@@ -7,7 +7,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import zlurpymining.zlurpymining.OresHandler;
 import zlurpymining.zlurpymining.Ores.Util;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
+import zlurpymining.zlurpymining.Ores.Objects.Ore;
 
 public class OresCommands implements CommandExecutor {
 

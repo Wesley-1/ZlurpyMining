@@ -1,9 +1,5 @@
 package zlurpymining.zlurpymining;
 
-import com.gmail.filoghost.holographicdisplays.api.Hologram;
-import com.gmail.filoghost.holographicdisplays.api.HologramsAPI;
-import com.gmail.filoghost.holographicdisplays.api.line.ItemLine;
-import com.gmail.filoghost.holographicdisplays.api.line.TextLine;
 import de.tr7zw.nbtapi.NBTItem;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -13,12 +9,10 @@ import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.inventory.ItemStack;
 import zlurpymining.zlurpymining.Ores.Files.OresYml;
-import zlurpymining.zlurpymining.Ores.Util;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.objects.Regen;
-import zlurpymining.zlurpymining.Ores.packets.Packets;
-import zlurpymining.zlurpymining.Ores.tasks.RegenTask;
-import zlurpymining.zlurpymining.ZlurpyMining;
+import zlurpymining.zlurpymining.Ores.Objects.Ore;
+import zlurpymining.zlurpymining.Ores.Objects.Regen;
+import zlurpymining.zlurpymining.Ores.Packets.Packets;
+import zlurpymining.zlurpymining.Ores.Tasks.RegenTask;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,11 +1,9 @@
-package zlurpymining.zlurpymining.Ores.tasks;
+package zlurpymining.zlurpymining.Ores.Tasks;
 
 import com.gmail.filoghost.holographicdisplays.api.Hologram;
-import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.scheduler.BukkitRunnable;
-import zlurpymining.zlurpymining.Ores.objects.Ore;
-import zlurpymining.zlurpymining.Ores.objects.Regen;
+import zlurpymining.zlurpymining.Ores.Objects.Regen;
 import zlurpymining.zlurpymining.ZlurpyMining;
 
 import java.util.Map;

@@ -1,16 +1,8 @@
-package zlurpymining.zlurpymining.Ores.objects;
+package zlurpymining.zlurpymining.Ores.Objects;
 
-import com.gmail.filoghost.holographicdisplays.api.Hologram;
-import com.gmail.filoghost.holographicdisplays.api.HologramsAPI;
-import com.gmail.filoghost.holographicdisplays.api.line.ItemLine;
-import com.gmail.filoghost.holographicdisplays.api.line.TextLine;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.plugin.Plugin;
 import zlurpymining.zlurpymining.OresHandler;
-import zlurpymining.zlurpymining.Ores.Util;
-import zlurpymining.zlurpymining.Ores.tasks.RegenTask;
 import zlurpymining.zlurpymining.ZlurpyMining;
 
 
